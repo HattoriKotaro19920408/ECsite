@@ -1,0 +1,14 @@
+127.0.0.1 - - [20/Aug/2018:11:46:05 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [20/Aug/2018:11:46:07 +0900] "GET /ecsite/ HTTP/1.1" 200 1946
+0:0:0:0:0:0:0:1 - - [20/Aug/2018:11:46:10 +0900] "POST /ecsite/HomeAction.action;jsessionid=4AA45E02585F98BA9D243B22EB8525A4 HTTP/1.1" 200 2543
+0:0:0:0:0:0:0:1 - - [20/Aug/2018:11:46:14 +0900] "GET /ecsite/UserCreateAction.action HTTP/1.1" 200 3013
+0:0:0:0:0:0:0:1 - - [20/Aug/2018:11:46:20 +0900] "POST /ecsite/UserCreateConfirmAction.action HTTP/1.1" 200 3210
+0:0:0:0:0:0:0:1 - - [20/Aug/2018:11:46:24 +0900] "POST /ecsite/UserCreateCompleteAction.action HTTP/1.1" 200 1882
+0:0:0:0:0:0:0:1 - - [20/Aug/2018:11:46:25 +0900] "GET /ecsite/HomeAction.action HTTP/1.1" 200 2543
+0:0:0:0:0:0:0:1 - - [20/Aug/2018:11:46:27 +0900] "POST /ecsite/LoginAction.action HTTP/1.1" 200 3202
+0:0:0:0:0:0:0:1 - - [20/Aug/2018:11:46:29 +0900] "POST /ecsite/BuyItemAction.action HTTP/1.1" 200 3162
+0:0:0:0:0:0:0:1 - - [20/Aug/2018:11:46:32 +0900] "POST /ecsite/BuyItemConfirmAction HTTP/1.1" 200 1820
+0:0:0:0:0:0:0:1 - - [20/Aug/2018:11:46:34 +0900] "GET /ecsite/MyPageAction.action HTTP/1.1" 200 2867
+0:0:0:0:0:0:0:1 - - [20/Aug/2018:11:47:03 +0900] "GET /ecsite/LogoutAction.action HTTP/1.1" 200 1902
+0:0:0:0:0:0:0:1 - - [20/Aug/2018:11:47:04 +0900] "POST /ecsite/HomeAction.action HTTP/1.1" 200 2543
+0:0:0:0:0:0:0:1 - - [20/Aug/2018:11:47:11 +0900] "POST /ecsite/LoginAction.action HTTP/1.1" 200 3202
